@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+}
+
+#ruleta{
+	display: block;
+	margin: 0 auto;
+	width: 550px;
+}
+
+#flecha{
+	position: absolute;
+	width: 50px;
+	top: 50px;
+	margin-left: -25px;
+}
+
+button{
+	margin-top: 100px !important;
+	display: block;
+	margin: 0 auto;
+}
+
+#box{
+	display: block;
+	text-align: center;
+}
